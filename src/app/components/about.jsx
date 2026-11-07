@@ -106,7 +106,7 @@ export default function About() {
             A developer who cares about details
           </h2>
           <p className="mb-10 max-w-[560px] text-[var(--mute)]">
-            Full Stack developer from Peshawar, building real-world web
+            Full Stack developer from Islamabad, building real-world web
             applications that are fast, scalable and clean.
           </p>
         </motion.div>
